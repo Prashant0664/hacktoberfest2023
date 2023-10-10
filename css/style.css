@@ -215,6 +215,7 @@ input[type="checkbox"] {
     background-color: #FFF;
     padding: 10px;
     border-top: 1px solid rgba(0,0,0,0.1);
+    border-radius: 0 0 15px 15px;
 }
 .add-to-do i{
     position: absolute;
