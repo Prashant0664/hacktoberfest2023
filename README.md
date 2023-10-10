@@ -7,7 +7,7 @@ A list of tasks that need to be completed, typically organized in order of prior
 ## Steps to Contribute
 
 1. Fork the repo.
-2. Clone forked repo in your local machine <br/> -  type ` git clone https://github.com/Prashant0664/hacktoberfest2023.git ` in your system(local) terminal <br/>
+2. Clone forked repo in your local machine <br/> -  type ` git clone https://github.com/<your-user-name>/hacktoberfest2023.git ` in your system(local) terminal <br/>
 3. Do the Changes
 4. Add changes `git add .`
 5. Commit changes `git commit -m "your-commit/issue number"`
