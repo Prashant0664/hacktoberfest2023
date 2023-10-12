@@ -267,38 +267,29 @@ input[type="checkbox"] {
     font-family: 'Titillium Web', sans-serif;
     font-size: 20px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.mode-toggle {
+    position: fixed;
+    top: 2rem;
+    right: 2rem;
+    /* background: none; */
+    /* border: none; */
+    cursor: pointer;
+    font-size: 24px;
+    color: #333; /* Initial color of the icon */
+  }
+  .dark-mode {
+    background-color: #333;
+    color: #fff;
+  }
+  .dark-mode .mode-toggle {
+    color: #fff;
+  }
+  .dark-mode .content {
+    color: #fff;
+  }
+  .dark-mode .content {
+    background-color: #886b6b;
+  }
+  .dark-mode .item p.text {
+    background-color: #886b6b;
+  }
